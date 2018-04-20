@@ -41,7 +41,7 @@ int sommaVettore(mat[x][y])
 	}
 }
 
-
+int z;
 
 
 
